@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    
+        <div>Aceasta este pagina angajati </div>
     </div>
     </form>
 </body>
